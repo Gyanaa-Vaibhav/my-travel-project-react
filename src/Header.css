@@ -1,0 +1,22 @@
+
+header{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F55A5A;
+    margin-bottom: 40px;
+}
+
+header h3{
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+header img{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
